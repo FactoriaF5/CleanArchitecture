@@ -1,0 +1,4 @@
+*.swp
+.idea/
+vendor/
+.phpunit.result.cache
